@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, Eu sou o Victor Celestino 
 
-<!--
-**Vol1t/Vol1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje estou em minha jornada para me tornar Fullstack
+- 🌱 Estou atualmente aprendendo tecnologias Front-end
+- 📫 Contate-me no email: celestinovictor.luiz@gmail.com
+- 📫 Contate-me no Linkedin: https://www.linkedin.com/in/victor-celestino-52167b208/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/Vol1t">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vol1t&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/Vol1t">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vol1t&theme=dark" />
+</a>
+</div>
