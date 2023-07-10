@@ -5,7 +5,14 @@
 - 🎲 Meu Hobby é jogar RPG de mesa.
 - ♂️ Meus pronomes são Ele/Dele
 
-
+<div>
+<a href="https://www.linkedin.com/in/victor-celestino-52167b208/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vol1t&show_icons=true&theme=dark" />
+</a>
+<a href="https://www.linkedin.com/in/victor-celestino-52167b208/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vol1t&theme=dark" />
+</a>
+</div>
 
 ## Minhas Skills
 <div style="display: inline_block"><br>
